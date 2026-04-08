@@ -113,7 +113,7 @@
   - Tool calling: meeting booking, email capture, CRM lookup — all server-side
   - Track LLM token cost per conversation for margin monitoring
 
-- [ ] **T-033**: Chat UI (`/widget/chat`)
+- [x] **T-033**: Chat UI (`/widget/chat`) — Phase 3 scaffolding: Preact + Vite IIFE bundle (7.9kb gzipped), Shadow DOM isolation, native WebSocket to Go gateway, streaming token display, configurable colors/position, CSP-compliant
   - Lazy-loaded on `high_intent` event or click (~35kb gzipped)
   - Native WebSocket API (no Socket.io)
   - Markdown rendering, typing indicator, session-persistent history
