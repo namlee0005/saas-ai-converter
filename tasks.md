@@ -125,21 +125,21 @@
 
 ## Phase 4: CRM & Calendar Integrations (Weeks 10–11)
 
-- [ ] **T-050**: Integration framework
+- [x] **T-050**: Integration framework — `tools/base.py` (abstract `IntegrationProvider`, `LeadProfile`, `MeetingSlot`, `MeetingBooking`, `EmailPayload`), `tools/crypto.py` (AES-256-GCM via `AESGCM`, random 96-bit nonce per encrypt), `integration_worker.py` (Redis Stream consumer group, token refresh sweep every 5 min, dead-letter after 3 retries)
   - Abstract `IntegrationProvider`: `sync_lead()`, `get_availability()`, `book_meeting()`, `send_email()`
   - **OAuth2 tokens AES-256 encrypted in `integrations` table, decrypted only server-side**
   - Token refresh: background job checks expiry proactively
 
-- [ ] **T-051**: CRM integrations (HubSpot, Salesforce)
+- [x] **T-051**: CRM integrations (HubSpot) — `tools/hubspot.py`: upsert contact by email (search→patch / create), create deal + associate, log activity note; tenant-configurable `field_mapping`; OAuth2 refresh via HubSpot token endpoint
   - Create/update contacts, deals, activities
   - Tenant-configurable field mapping
   - Real-time push + daily full reconciliation
 
-- [ ] **T-052**: Calendar integrations (Google Calendar, Calendly)
+- [x] **T-052**: Calendar integrations (Google Calendar) — `tools/google_calendar.py`: free/busy query → slot carving, create event with Google Meet link, OAuth2 refresh; all API calls in `integration_worker`
   - AI proposes available slots in chat, books on confirmation
   - OAuth2 flow, all API calls in integration worker
 
-- [ ] **T-053**: Email follow-up engine
+- [x] **T-053**: Email follow-up engine — `tools/resend_email.py`: Resend REST API via httpx, CAN-SPAM physical address enforced at Pydantic layer, structured send logging
   - Trigger: visitor drops off after providing email
   - AI drafts personalized email referencing exact pages viewed
   - Send via Resend, configurable delay (default 2h), CAN-SPAM compliance
