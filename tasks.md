@@ -150,7 +150,7 @@
 
 ## Phase 5: Dashboard & Tenant Management (Weeks 12–14)
 
-- [ ] **T-060**: Auth & tenant provisioning (NextAuth.js, onboarding wizard)
+- [x] **T-060**: Auth & tenant provisioning (Clerk, onboarding wizard) — Phase 1 scaffolding: Next.js 16 + Clerk v7 + proxy-based route protection + dashboard shell with sidebar
 - [ ] **T-061**: Analytics views (SSE real-time visitors, conversion funnel, intent histogram)
 - [ ] **T-062**: Config panels (widget customizer, scoring rules editor, KB management, integration OAuth flows)
 - [ ] **T-063**: Conversation viewer (transcripts, visitor context sidebar, human takeover)
