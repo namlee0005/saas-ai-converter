@@ -38,3 +38,8 @@ Owners can opt into the **Rental Pool Program** managed by Ritz-Carlton.
 - **What are the monthly maintenance fees?** $2.50 USD per square meter of land area. This covers security, landscaping, pool cleaning, and clubhouse access.
 - **Is financing available?** Yes, partnered with Standard Chartered Bank for up to 60% LTV for locals. Foreigners must pay 100% cash.
 - **How do I arrange a site visit?** We offer a complimentary VIP helicopter or limousine pickup from the airport. Leave your email and phone number, and our AI will book a VIP Tour with our Senior Broker.
+
+## 6. Legal Restrictions & Handover Penalties
+- **Force Majeure & Construction Delays:** If handover is delayed beyond 180 days from the targeted Q4 2026 date, Apex Holdings will pay the buyer a penalty of 0.05% of the paid amount per day of delay.
+- **Foreign Quota Limit:** Under current housing laws, foreigners can only own up to 30% of the total units in any single condominium project, and maximum 250 landed properties in a single ward. Diamond Bay currently has 12 Foreign Quota slots remaining for the Signature Villas.
+- **Secondary Market Flipping (Transfer Fee):** Buyers can flip/sell their SPA (Sales & Purchase Agreement) before handover. The developer charges a 1.5% administrative transfer fee based on the original SPA price. The new buyer inherits the remaining payment schedule.

@@ -38,3 +38,8 @@
 - **Does the implant surgery hurt?** We use computerized painless anesthesia (The Wand). Most patients report less pain than a standard extraction. We also offer IV Sedation for anxious patients ($500 extra).
 - **How long does Invisalign take to arrive?** After scanning, the 3D ClinCheck is ready in 3 days. Aligners arrive from the USA in 2-3 weeks.
 - **How to book a checkup?** Leave your phone number and email. Our AI will schedule a free panoramic X-ray and consultation directly into Dr. Smith's calendar.
+
+## 6. Complex Scenarios & Contraindications
+- **Bone Grafting & Sinus Lift:** If the CBCT scan reveals less than 4mm of bone height in the upper jaw, a Sinus Lift and Bio-Oss bone grafting is mandatory before implant placement. Healing time extends by 6-9 months. Cost: $800 per quadrant.
+- **Bruxism (Severe Teeth Grinding):** Patients with severe bruxism are not eligible for standard Emax veneers. They must opt for Zirconia crowns (Full-contour) which offer 1200 MPa of flexural strength. A custom Michigan Splint (Night Guard) must be purchased ($250) and worn nightly to validate the warranty.
+- **Invisalign Refinements:** If teeth do not track perfectly according to the ClinCheck after the first set of aligners, the Comprehensive Plan covers up to 3 sets of refinements for free. Express Plan charges $500 per refinement set.

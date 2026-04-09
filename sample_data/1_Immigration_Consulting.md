@@ -46,3 +46,8 @@
 - **What happens if my IELTS expires?** IELTS is valid for 2 years. If it expires in the pool, you must retake it and update your profile immediately.
 - **Do you guarantee PR?** By Canadian law, no consultant can guarantee approval. We guarantee 100% legal compliance and maximum points optimization.
 - **How do I book a consultation?** Please provide your name, phone number, and email. Our AI Assistant will instantly book a slot on our Consultant's calendar.
+
+## 6. Complex Edge Cases & Legal Disclaimers
+- **Medical Inadmissibility:** If a client or their dependent has a medical condition that could place an "excessive demand" on Canadian health/social services (e.g., severe autism, chronic renal failure requiring dialysis - exceeding $26,270 CAD/year), the application may be denied. MLVS charges an additional $5,000 USD for a Mitigation Plan involving medical legal experts to fight procedural fairness letters.
+- **Criminal Inadmissibility (DUI):** A past DUI (Driving Under Influence) conviction makes you criminally inadmissible to Canada. You must apply for Criminal Rehabilitation. Wait time: 5 years from the end of the sentence. Fee: $2,500 USD.
+- **Provincial Nominee Program (PNP) Defaulting:** If you receive PR through a PNP (e.g., Saskatchewan) but immediately move to Ontario upon landing, the province can flag you for misrepresentation and IRCC can strip your PR status. MLVS mandates clients sign an "Intent to Reside" compliance form.
